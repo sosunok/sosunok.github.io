@@ -5,7 +5,7 @@
 
 body {
   background:#060606;
-  line-height: 7px;
+  line-height: 10px;
 }
 h1 {
   color:white;
@@ -21,6 +21,6 @@ h3 {
 
 #sign {  
   font-family: PaulFont;
-  font-size:48px;
+  font-size:36px;
   font-weight:100;
 }
