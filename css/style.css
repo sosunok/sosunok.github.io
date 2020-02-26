@@ -4,7 +4,7 @@
 }
 
 body {
-  background:black;
+  background:#030303;
   line-height: 7px;
 }
 h1 {
@@ -18,4 +18,5 @@ h3 {
   margin:0px;
   padding:0px;
   font-family: PaulFont;
+  font-size:14px;
 }
