@@ -1,6 +1,6 @@
 body {
   background:black;
-  line-height: 5px;
+  line-height: 6px;
 }
 h1 {
   color:white;
@@ -12,5 +12,4 @@ h3 {
   text-align:center;
   margin:0px;
   padding:0px;
-  background:red;
 }
