@@ -17,6 +17,9 @@ h3 {
   text-align:center;
   margin:0px;
   padding:0px;
+}
+
+#sign {  
   font-family: PaulFont;
-  font-size:21px;
+  font-size:48px;
 }
